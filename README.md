@@ -30,7 +30,7 @@ X1 EcoChain BOT is an automated tool designed to streamline onchain operations a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vonssy/X1-Ecochain-BOT.git
+git clone https://github.com/dopezayn/X1-Ecochain-BOT.git
 cd X1-Ecochain-BOT
 ```
 
